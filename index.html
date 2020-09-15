@@ -17,287 +17,293 @@
         <br>
         <h1>BLM Survey</h1>
         <br><br>
-        <!-- first section -->
-        <h2>Introduction</h2>
-        <p>
-            Hello!
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>
+                Hello!
 
-            These are the results of a survey I posted recently, which aimed to ask the Github userbase what their
-            thoughts on the controversial change of the default branch on Github (and by extension, Git) from 'master'
-            to an alternative phrase like 'main' or 'trunk'.
+                These are the results of a survey I posted recently, which aimed to ask the Github userbase what their
+                thoughts on the controversial change of the default branch on Github (and by extension, Git) from 'master'
+                to an alternative phrase like 'main' or 'trunk'.
 
-            The name change was proposed as a response to the 2020 Black Lives Matter protests, demanding equal rights
-            and restructure of the American police system in response to the violent, tragic and reckless murders of
-            innocent black men, women and children at the hands of police.
-            
-            <br><br>
-            This proposed change has divided opinions within Github's user base. Github has claimed that the use of the word
-            'master' has connotations to slavery in many countries, and it is being changed to make black developers feel
-            more comfortable on the platform. However, many others have argued that the change is meaningless to the cause,
-            distracts the public from the actual issues faced by real black people, and that the change breaks CI solutions
-            and other habits. However, many others also support the change, believing that it is expanding inclusivity, and
-            it is also a chance to change the name of the branch to something more meaningful or a name which expresses the
-            branch's purpose more clearly.
+                The name change was proposed as a response to the 2020 Black Lives Matter protests, demanding equal rights
+                and restructure of the American police system in response to the violent, tragic and reckless murders of
+                innocent black men, women and children at the hands of police.
+                
+                <br><br>
+                This proposed change has divided opinions within Github's user base. Github has claimed that the use of the word
+                'master' has connotations to slavery in many countries, and it is being changed to make black developers feel
+                more comfortable on the platform. However, many others have argued that the change is meaningless to the cause,
+                distracts the public from the actual issues faced by real black people, and that the change breaks CI solutions
+                and other habits. However, many others also support the change, believing that it is expanding inclusivity, and
+                it is also a chance to change the name of the branch to something more meaningful or a name which expresses the
+                branch's purpose more clearly.
 
-            <br><br>
-            In the wake of this, I decided to create this survey to ask the users of Github directly what they thought about
-            the change. I also decided to collect information about the responder's ethnicity, country of residence and gender,
-            in order to gauge the demographics which were mainly for and against the change.
-        </p>
-        <br>
-        <!-- second section -->
-        <h2>Demographics</h2>
-        <br>
-        <ul class="list-group list-group-horizontal justify-content-center">
-            <li class="list-group-item">
-                <span class="h4">210</span> Total Responses
-            </li>
-            <li class="list-group-item">
-                <span class="h4">16</span> ethnicities
-            </li>
-            <li class="list-group-item">
-                <span class="h4">16</span> non-cis responses
-            </li>
-        </ul>
-        <br>
-        <p>
-            The survey spanned many different countries, reaching people who identified with around 16 different
-            ethnic groups. The survey was also taken by several people who did not identify as either male or female.
-            However, the majority of people who responded were white, and the most prevalent gender identity to respond
-            was male, followed up by females. This was expected based on how the majority of people involved in computer
-            science (and therefore, users of Github) are white males. Despite this however, many users chose not to
-            disclose their gender identity, so the true distribution is not known.      
-        </p>
-        <br>
-        <div class="row">
-            <div class="col-md-6">
-                <span class="h5">Ethnicity Breakdown</span>
-                <img class="img-fluid" src="charts/demo_ethnicity.svg" alt="Ethnicity Demographic Chart" />
+                <br><br>
+                In the wake of this, I decided to create this survey to ask the users of Github directly what they thought about
+                the change. I also decided to collect information about the responder's ethnicity, country of residence and gender,
+                in order to gauge the demographics which were mainly for and against the change.
+            </p>
+            <br>
+        </section>
+        <section id="demographics">
+            <h2>Demographics</h2>
+            <br>
+            <ul class="list-group list-group-horizontal justify-content-center">
+                <li class="list-group-item">
+                    <span class="h4">210</span> total responses
+                </li>
+                <li class="list-group-item">
+                    <span class="h4">16</span> ethnicities
+                </li>
+                <li class="list-group-item">
+                    <span class="h4">16</span> non-cis responses
+                </li>
+            </ul>
+            <br>
+            <p>
+                The survey spanned many different countries, reaching people who identified with around 16 different
+                ethnic groups. The survey was also taken by several people who did not identify as either male or female.
+                However, the majority of people who responded were white, and the most prevalent gender identity to respond
+                was male, followed up by females. This was expected based on how the majority of people involved in computer
+                science (and therefore, users of Github) are white males. Despite this however, many users chose not to
+                disclose their gender identity, so the true distribution is not known.      
+            </p>
+            <br>
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="h5">Ethnicity Breakdown</span>
+                    <img class="img-fluid" src="charts/demo_ethnicity.svg" alt="Ethnicity Demographic Chart" />
+                </div>
+                <div class="col-md-6">
+                    <span class="h5">Gender Identity Breakdown</span>
+                    <img class="img-fluid" src="charts/demo_gender.svg" alt="Gender Demographic Chart" />
+                </div>
             </div>
-            <div class="col-md-6">
-                <span class="h5">Gender Identity Breakdown</span>
-                <img class="img-fluid" src="charts/demo_gender.svg" alt="Gender Demographic Chart" />
+            <br><br>
+            <p>
+                Perhaps unsurprisingly, the United States came in with the most responses by 29.5%, followed closely by many
+                European countries. I did not list all countries in Europe, but many responses from other countries in Europe
+                responded, taking up about 29% of all responses. Based on the ethnic data, I'm guessing most of these are from
+                countries like Russia, the Netherlands, Spain, and so on. In hindsight, I probably should have included more
+                countries in the list.
+            </p>
+            <p class="h5">Country Breakdown</p>
+            <div class="d-flex justify-content-center">
+                <img class="img-fluid" src="charts/demo_country.svg" alt="Country Demographic Chart" />
             </div>
-        </div>
-        <br><br>
-        <p>
-            Perhaps unsurprisingly, the United States came in with the most responses by 29.5%, followed closely by many
-            European countries. I did not list all countries in Europe, but many responses from other countries in Europe
-            responded, taking up about 29% of all responses. Based on the ethnic data, I'm guessing most of these are from
-            countries like Russia, the Netherlands, Spain, and so on. In hindsight, I probably should have included more
-            countries in the list.
-        </p>
-        <p class="h5">Country Breakdown</p>
-        <div class="d-flex justify-content-center">
-            <img class="img-fluid" src="charts/demo_country.svg" alt="Country Demographic Chart" />
-        </div>
-        <br>
-        <!-- third section -->
-        <h2>General Consensus</h2>
-        <br>
-        <div class="d-flex justify-content-center">
-            <img class="img-fluid" src="charts/agreement_total.svg" alt="Total Agreement Chart" />
-        </div>
-        <p>
-            The general opinion for most users is that they are <b>against</b> this change. 70% of all participants said
-            that they are against the change, with only 15.7% being in support of the change. The other 14.3% fall under
-            'Maybe' and 'Don't care', though their actual opinions are usually mixed and lean towards one of the two main
-            options. Based on the written responses from users who were asked to explain their responses, most reasoning
-            for their responses is as follows:
-            <br><br>
-            <b>For</b>
-            <ul>
-                <li>It is outdated terminology, and changing it from 'master' to some other alternative in order to create
-                    a more inclusive space is worth the effort.
-                </li>
-                <li>It is an opportunity to pick a more meaningful name which better expresses what the branch actually does.
-                    It is difficult to understand exactly what 'master' means on first encounter, whereas something like 'main'
-                    would make much more sense.
-                </li>
-                <li>The name 'master' simply doesn't make sense to some users. It is now legacy terminology, and holding onto
-                    it would simply be impractical.
-                </li>
-                <li>Some are not bothered either way, but feel that if individuals are offended by it they are supportive of
-                    changing it to something else.
-                </li>
-            </ul>
             <br>
-            <b>Against</b>
-            <ul>
-                <li>This action is being taken as a form of 'virtue signalling', Github and Microsoft merely did this in order
-                    to jump onto a bandwagon while the Black Lives Matter movement was gaining momentum on social media.
-                </li>
-                <li>Several African Americans who responded stated that it was <i>more</i> offensive to change it, since it
-                    comes across as white people "thinking we are "vulnerable" and need protecting" from a word which they
-                    understand has multiple meanings in different contexts.
-                </li>
-                <li>It is an impractical change which will break workflows, continuous integration (CI) setups and several other
-                    automated scripts which will require manual fixing later.
-                </li>
-                <li>Using the word 'master' depends on the context being used. In Git, it is widely understood that the word
-                    'master' is used to mean master copy (the original copy which all derivatives are made from), and nobody
-                    associates the word in this context with it's master/slave connotation.
-                </li>
-                <li>Several git tutorials and walkthroughs will become obselete.</li>
-                <li>It is introducing politics into a website which is not and has not ever been involved in politics, and it
-                    is creating a social issue where there actually isn't one to begin with.
-                </li>
-            </ul>
+        </section>
+        <section id="general-consensus">
+            <h2>General Consensus</h2>
             <br>
-            It is clear that most users believe it is an unnecessary change, which breaks automated workflows, is insensitive
-            given the current political landscape in the world, offensive to the group of people they are trying to be inclusive
-            of, and suggests that Github and/or Microsoft are simply only interested in doing this to gain favor in public opinion.
-           
-            <br><br>
-            However, some users also believe that it is time to rid the industry of questionable terminology, which could possibly
-            offend certain people, and is confusing and unclear in it's meaning given the context it is used in, and should be
-            swapped out with clearer and less ambiguous terminology.
-
-            <br><br>
-            Those who were in support of the change were asked to pick from a list of alternative names for the branch which they
-            preferred, or suggest their own. The most popular one chosen by participants was 'main' with 47.6% of votes, followed
-            by 'trunk' with 14.3%. Several other names were suggested which are listed below.
-        </p>
-        <br>
-        <p class="h5">Suggested replacements for 'master'</p>
-        <div class="d-flex justify-content-center">
-            <img class="img-fluid" src="charts/name_change.svg" alt="Alternative Names Chart" />
-        </div>
-        <br>
-        <!-- fourth section -->
-        <h2>Correlations</h2>
-        <p>
-            I originally ran this survey with the goal of discovering some kind of correlation between the different demographic
-            groups which make up Github's user base, and how positive/negative their support is in relation to this issue. I also
-            wanted to see which group was most supportive of the change, which group was least supportive, and how much the 
-            response changed between ethnicities, genders and countries.
-        </p>
-        <img class="img-fluid" src="charts/agreement_ethnicity.svg" alt="Ethnicity Agreement Chart" />
-        <p>
-            Something I was not expecting when gathering the data for this survey is that every single African American who
-            answered the survey responded 'No' in support of the change. Not only that, when asked to explain their reasoning,
-            all of them sounded fairly spiteful towards Github and it's executives, since they felt that these decisions were
-            made by white executives who didn't actually consider whether it offended them or not, and these responses suggest
-            that they were more offended by Github feeling the need to change it in the first place.
-            
-            <br><br>
-            You can also see that most of the users in support of this change are of either caucasian or asian descent, while
-            more marginalised groups like africans, indians, hispanics and otherwise are almost universally against the changes,
-            reflecting that the main ethnic group which feels the need to change it (and take offense to it) are white.
-        </p>
-        <img class="img-fluid" src="charts/agreement_country.svg" alt="Country Agreement Chart" />
-        <p>
-            The above holds true when compared to the correlation between countries, and it becomes clear that countries with a
-            predominantly white population are more supportive of the change, while african and asian countries tend to lean more
-            against the change, with the exception of New Zealand which universally disagrees with the change.
-        </p>
-        <img class="img-fluid" src="charts/agreement_gender.svg" alt="Gender Agreement Chart" />
-        <p>
-            When broken down by gender the correlation between race is obviously less clear. However, we can see that men provided
-            the most mixed results in the survey. Females are the most supportive of the change, with 30% of women voting 'Yes' in
-            response to changing the name. Transgender and non-binary people are universally against the change, while gender-fluid
-            people are universally for the change, although there was not enough data from people who identified with these gender
-            identities to have accurate results (especially with only one person identifying as gender-fluid).
-        </p>
-        <br>
-        <!-- fifth section -->
-        <h2>Open letter to Github (and Git)</h2>
-        <br><br>
-        <blockquote class="blockquote">
-            <p class="mb-0">It's stupid, means nothing, and makes fun of the civil rights movement.</p>
-            <footer class="blockquote-footer">Anonymous African American survey respondant</footer>
-        </blockquote>
-        <br><br>
-        <p>
-            To Github,
-            <br><br>
-            On behalf of your users, I ask that you reconsider your approach in forcing the default branch name of all new
-            repositories on your site to be changed from 'master' to 'main'. While it is a less ambiguous term and might be
-            clearer to the average user, changing it at this time is seen as an offense to many of your users, including the
-            specific ethnic group which you are hoping to be more inclusive of.
-            
-            <br><br>
-            African Americans across the internet have stated that this change is a spit in the face to them and the entire
-            Black Lives Matter movement, insinuating that they cannot realize that the word has a different meaning based on
-            the context it is used in, and that they must be sheltered by you because you know better. It is the main reason I
-            and so many others have been unsupportive of the change from the start, because despite your intentions, you are
-            inadvertently allowing casual racism to continue through your actions towards this group which is fighting for their
-            safety in the real world.
-
-            <br><br>
-            I suggest keeping the ability to change the default branch name if you wish (either through Github settings or the
-            'init.defaultBranch' config option in Git), but users should not be forced to have their default branch name changed
-            to 'main', and manually change it back. Rather, I believe that it should be kept as 'master', with the option to
-            change it manually, since the vast majority of your user base would prefer it to be left the same, both for ease of
-            use, not breaking automated workflows, and because changing it marginalises the group which you are trying to include,
-            when that specific group is already facing horrible acts of violence and ignorance in the real world.
-
-            <br><br>
-            I don't believe politics belong in programming, and neither does a primary percentage of your user base. Whatever the
-            motives behind this decision were, I believe it is going to case more harm than good, and cement a dangerous perspective
-            that things will be changed not because they actually offend people, but because people believe it will offend another
-            group of people.
-
-            <br><br>
-            Thank you for your consideration,
-            <br>- Github Users
-        </p>
-        <br>
-        <!-- sixth section -->
-        <h2>Conclusion</h2>
-        <p>
-            Thank you so much for reading the results of this survey, and if you happened to participate in the survey, thank you!
-            Your responses were very much appreciated and should hopefully help paint a clearer picture into the opinions of Github's
-            userbase on this issue.
-            
-            <br><br>
-            Obviously there were only 210 responses so this data is not entirely accurate, and having more responses would have been
-            ideal to get a better idea of the overall broad opinion of the site's users, but I am satisfied with the results of this
-            survey, and I think it still reflects the opinions of the sites users.
-
-            <br><br>
-            If you would like to support the Black Lives Matter movement, please consider visiting these links to find out how to
-            support the movement. The best way (in the U.S. at least) is to register to vote and vote against racist leaders, write
-            letters to local politicians, or to sign one of many petitions on the internet.
-
-            <br>
-            <ul>
-                <li><a target="_blank" href="https://blacklives.help/">Donate to a charity support BLM</a></li>
-                <li><a target="_blank" href="https://blacklivesmatters.carrd.co/#vote">Register to vote (U.S. only)</a></li>
-                <li><a target="_blank" href="https://blacklivesmatters.carrd.co/#petitions">Petitions to Sign</a></li>
-            </ul>
-            <br>
-
-            If you would like to download the dataset for this survey to do your own analysis, feel free!
-
-            <br><br>
-            <ul>
-                <li><a target="_blank" href="/data/Survey Responses.xlsx">Excel Download</a></li>
-                <li><a target="_blank" href="/data/Survey Responses Raw.csv">CSV Download</a></li>
+            <div class="d-flex justify-content-center">
+                <img class="img-fluid" src="charts/agreement_total.svg" alt="Total Agreement Chart" />
+            </div>
+            <p>
+                The general opinion for most users is that they are <b>against</b> this change. 70% of all participants said
+                that they are against the change, with only 15.7% being in support of the change. The other 14.3% fall under
+                'Maybe' and 'Don't care', though their actual opinions are usually mixed and lean towards one of the two main
+                options. Based on the written responses from users who were asked to explain their responses, most reasoning
+                for their responses is as follows:
+                <br><br>
+                <b>For</b>
+                <ul>
+                    <li>It is outdated terminology, and changing it from 'master' to some other alternative in order to create
+                        a more inclusive space is worth the effort.
+                    </li>
+                    <li>It is an opportunity to pick a more meaningful name which better expresses what the branch actually does.
+                        It is difficult to understand exactly what 'master' means on first encounter, whereas something like 'main'
+                        would make much more sense.
+                    </li>
+                    <li>The name 'master' simply doesn't make sense to some users. It is now legacy terminology, and holding onto
+                        it would simply be impractical.
+                    </li>
+                    <li>Some are not bothered either way, but feel that if individuals are offended by it they are supportive of
+                        changing it to something else.
+                    </li>
+                </ul>
                 <br>
-                <li><a target="_blank" href="https://www.convertcsv.com/query-csv.htm">Utility to run SQL queries on CSV data</a></li>
-            </ul>
-            <br>
-
-            If you find any more interesting information, think something could be worded better, or even just find a
-            spelling/grammar mistake somewhere, please open up a pull request on
-            <a target="_blank" href="https://github.com/747anon/blm-survey">this repo</a> and I'll take a look at it! Any help
-            would be greatly appreciated. Or, if you're feeling generous, give it a star!
-
-            <br><br>
-            Thank you to <b>Google Forms</b> and <b>Google Sheets</b> for the creation of the survey form and the graphics which
-            were generated for this page. Thank you to <b>Query CSV with SQL</b> (linked above) for dramatically increasing the
-            speed at which I was able to put this page together. And thank you <b>Github</b> for hosting this page and providing
-            a repository where collaboration on this page can be performed.
-
-            <br><br>
-            Thanks for reading, have a wonderful day/night!
-            <br><br>
+                <b>Against</b>
+                <ul>
+                    <li>This action is being taken as a form of 'virtue signalling', Github and Microsoft merely did this in order
+                        to jump onto a bandwagon while the Black Lives Matter movement was gaining momentum on social media.
+                    </li>
+                    <li>Several African Americans who responded stated that it was <i>more</i> offensive to change it, since it
+                        comes across as white people "thinking we are "vulnerable" and need protecting" from a word which they
+                        understand has multiple meanings in different contexts.
+                    </li>
+                    <li>It is an impractical change which will break workflows, continuous integration (CI) setups and several other
+                        automated scripts which will require manual fixing later.
+                    </li>
+                    <li>Using the word 'master' depends on the context being used. In Git, it is widely understood that the word
+                        'master' is used to mean master copy (the original copy which all derivatives are made from), and nobody
+                        associates the word in this context with it's master/slave connotation.
+                    </li>
+                    <li>Several git tutorials and walkthroughs will become obselete.</li>
+                    <li>It is introducing politics into a website which is not and has not ever been involved in politics, and it
+                        is creating a social issue where there actually isn't one to begin with.
+                    </li>
+                </ul>
+                <br>
+                It is clear that most users believe it is an unnecessary change, which breaks automated workflows, is insensitive
+                given the current political landscape in the world, offensive to the group of people they are trying to be inclusive
+                of, and suggests that Github and/or Microsoft are simply only interested in doing this to gain favor in public opinion.
             
-            <a class="github-button" href="https://github.com/747anon/blm-survey" data-icon="octicon-star" aria-label="Star 747anon/blm-survey on GitHub">Star</a>
-            <a class="github-button" href="https://github.com/747anon/blm-survey/fork" data-icon="octicon-repo-forked" aria-label="Fork 747anon/blm-survey on GitHub">Fork</a>
-            <a class="github-button" href="https://github.com/747anon/blm-survey/issues" data-icon="octicon-issue-opened" aria-label="Issue 747anon/blm-survey on GitHub">Issue</a>
-        </p>
+                <br><br>
+                However, some users also believe that it is time to rid the industry of questionable terminology, which could possibly
+                offend certain people, and is confusing and unclear in it's meaning given the context it is used in, and should be
+                swapped out with clearer and less ambiguous terminology.
+
+                <br><br>
+                Those who were in support of the change were asked to pick from a list of alternative names for the branch which they
+                preferred, or suggest their own. The most popular one chosen by participants was 'main' with 47.6% of votes, followed
+                by 'trunk' with 14.3%. Several other names were suggested which are listed below.
+            </p>
+            <br>
+            <p class="h5">Suggested replacements for 'master'</p>
+            <div class="d-flex justify-content-center">
+                <img class="img-fluid" src="charts/name_change.svg" alt="Alternative Names Chart" />
+            </div>
+            <br>
+        </section>
+        <section id="correlations">
+            <h2>Correlations</h2>
+            <p>
+                I originally ran this survey with the goal of discovering some kind of correlation between the different demographic
+                groups which make up Github's user base, and how positive/negative their support is in relation to this issue. I also
+                wanted to see which group was most supportive of the change, which group was least supportive, and how much the 
+                response changed between ethnicities, genders and countries.
+            </p>
+            <img class="img-fluid" src="charts/agreement_ethnicity.svg" alt="Ethnicity Agreement Chart" />
+            <p>
+                Something I was not expecting when gathering the data for this survey is that every single African American who
+                answered the survey responded 'No' in support of the change. Not only that, when asked to explain their reasoning,
+                all of them sounded fairly spiteful towards Github and it's executives, since they felt that these decisions were
+                made by white executives who didn't actually consider whether it offended them or not, and these responses suggest
+                that they were more offended by Github feeling the need to change it in the first place.
+                
+                <br><br>
+                You can also see that most of the users in support of this change are of either caucasian or asian descent, while
+                more marginalised groups like africans, indians, hispanics and otherwise are almost universally against the changes,
+                reflecting that the main ethnic group which feels the need to change it (and take offense to it) are white.
+            </p>
+            <img class="img-fluid" src="charts/agreement_country.svg" alt="Country Agreement Chart" />
+            <p>
+                The above holds true when compared to the correlation between countries, and it becomes clear that countries with a
+                predominantly white population are more supportive of the change, while african and asian countries tend to lean more
+                against the change, with the exception of New Zealand which universally disagrees with the change.
+            </p>
+            <img class="img-fluid" src="charts/agreement_gender.svg" alt="Gender Agreement Chart" />
+            <p>
+                When broken down by gender the correlation between race is obviously less clear. However, we can see that men provided
+                the most mixed results in the survey. Females are the most supportive of the change, with 30% of women voting 'Yes' in
+                response to changing the name. Transgender and non-binary people are universally against the change, while gender-fluid
+                people are universally for the change, although there was not enough data from people who identified with these gender
+                identities to have accurate results (especially with only one person identifying as gender-fluid).
+            </p>
+            <br>
+        </section>
+        <section id="open-letter">
+            <h2>Open letter to Github (and Git)</h2>
+            <br><br>
+            <blockquote class="blockquote">
+                <p class="mb-0">It's stupid, means nothing, and makes fun of the civil rights movement.</p>
+                <footer class="blockquote-footer">Anonymous African American survey respondant</footer>
+            </blockquote>
+            <br><br>
+            <p>
+                To Github,
+                <br><br>
+                On behalf of your users, I ask that you reconsider your approach in forcing the default branch name of all new
+                repositories on your site to be changed from 'master' to 'main'. While it is a less ambiguous term and might be
+                clearer to the average user, changing it at this time is seen as an offense to many of your users, including the
+                specific ethnic group which you are hoping to be more inclusive of.
+                
+                <br><br>
+                African Americans across the internet have stated that this change is a spit in the face to them and the entire
+                Black Lives Matter movement, insinuating that they cannot realize that the word has a different meaning based on
+                the context it is used in, and that they must be sheltered by you because you know better. It is the main reason I
+                and so many others have been unsupportive of the change from the start, because despite your intentions, you are
+                inadvertently allowing casual racism to continue through your actions towards this group which is fighting for their
+                safety in the real world.
+
+                <br><br>
+                I suggest keeping the ability to change the default branch name if you wish (either through Github settings or the
+                'init.defaultBranch' config option in Git), but users should not be forced to have their default branch name changed
+                to 'main', and manually change it back. Rather, I believe that it should be kept as 'master', with the option to
+                change it manually, since the vast majority of your user base would prefer it to be left the same, both for ease of
+                use, not breaking automated workflows, and because changing it marginalises the group which you are trying to include,
+                when that specific group is already facing horrible acts of violence and ignorance in the real world.
+
+                <br><br>
+                I don't believe politics belong in programming, and neither does a primary percentage of your user base. Whatever the
+                motives behind this decision were, I believe it is going to case more harm than good, and cement a dangerous perspective
+                that things will be changed not because they actually offend people, but because people believe it will offend another
+                group of people.
+
+                <br><br>
+                Thank you for your consideration,
+                <br>- Github Users
+            </p>
+            <br>
+        </section>
+        <section id="conclusion">
+            <h2>Conclusion</h2>
+            <p>
+                Thank you so much for reading the results of this survey, and if you happened to participate in the survey, thank you!
+                Your responses were very much appreciated and should hopefully help paint a clearer picture into the opinions of Github's
+                userbase on this issue.
+                
+                <br><br>
+                Obviously there were only 210 responses so this data is not entirely accurate, and having more responses would have been
+                ideal to get a better idea of the overall broad opinion of the site's users, but I am satisfied with the results of this
+                survey, and I think it still reflects the opinions of the sites users.
+
+                <br><br>
+                If you would like to support the Black Lives Matter movement, please consider visiting these links to find out how to
+                support the movement. The best way (in the U.S. at least) is to register to vote and vote against racist leaders, write
+                letters to local politicians, or to sign one of many petitions on the internet.
+
+                <br>
+                <ul>
+                    <li><a target="_blank" href="https://blacklives.help/">Donate to a charity support BLM</a></li>
+                    <li><a target="_blank" href="https://blacklivesmatters.carrd.co/#vote">Register to vote (U.S. only)</a></li>
+                    <li><a target="_blank" href="https://blacklivesmatters.carrd.co/#petitions">Petitions to Sign</a></li>
+                </ul>
+                <br>
+
+                If you would like to download the dataset for this survey to do your own analysis, feel free!
+
+                <br><br>
+                <ul>
+                    <li><a target="_blank" href="/data/Survey Responses.xlsx">Excel Download</a></li>
+                    <li><a target="_blank" href="/data/Survey Responses Raw.csv">CSV Download</a></li>
+                    <br>
+                    <li><a target="_blank" href="https://www.convertcsv.com/query-csv.htm">Utility to run SQL queries on CSV data</a></li>
+                </ul>
+                <br>
+
+                If you find any more interesting information, think something could be worded better, or even just find a
+                spelling/grammar mistake somewhere, please open up a pull request on
+                <a target="_blank" href="https://github.com/747anon/blm-survey">this repo</a> and I'll take a look at it! Any help
+                would be greatly appreciated. Or, if you're feeling generous, give it a star!
+
+                <br><br>
+                Thank you to <b>Google Forms</b> and <b>Google Sheets</b> for the creation of the survey form and the graphics which
+                were generated for this page. Thank you to <b>Query CSV with SQL</b> (linked above) for dramatically increasing the
+                speed at which I was able to put this page together. And thank you <b>Github</b> for hosting this page and providing
+                a repository where collaboration on this page can be performed.
+
+                <br><br>
+                Thanks for reading, have a wonderful day/night!
+                <br><br>
+                
+                <a class="github-button" href="https://github.com/747anon/blm-survey" data-icon="octicon-star" aria-label="Star 747anon/blm-survey on GitHub">Star</a>
+                <a class="github-button" href="https://github.com/747anon/blm-survey/fork" data-icon="octicon-repo-forked" aria-label="Fork 747anon/blm-survey on GitHub">Fork</a>
+                <a class="github-button" href="https://github.com/747anon/blm-survey/issues" data-icon="octicon-issue-opened" aria-label="Issue 747anon/blm-survey on GitHub">Issue</a>
+            </p>
+        </section>
     </div>
 </body>
 </html>
