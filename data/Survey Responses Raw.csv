@@ -1,0 +1,277 @@
+timestamp,gender,ethnicity,country,agree,explanation,name_suggestion
+6/16/2020 18:36:47,Male,Caucasian (White),Australia,No,"I believe it achieves the opposite, and implies that black people are unable to determine what is and isn't offensive, and it is a decision made by a group of white people who think they must make the distinction for them. It also feels like Github and Microsoft are exploiting the BLM protests as a means to appear more inclusive.",
+6/16/2020 19:04:31,Male,Caucasian (White),United Kingdom,No,"In this context, the term master has no relation to slavery and the change will only cause confusion and ambiguity.",
+6/16/2020 19:10:27,Male,Caucasian (White),Other (Europe),No,retarded pandering,
+6/16/2020 19:20:16,Male,Indian,India,No,It's pointless and fixes problems that don't exist.,
+6/16/2020 19:21:11,Male,Caucasian (White),United Kingdom,No,It's ridiculous ,
+6/16/2020 19:22:03,Male,Caucasian (White),Other (Europe),No,"For me it never was linked to slavery. I feel same for master-slave, whitelist-blacklist as well.",
+6/16/2020 19:23:02,Male,Caucasian (White),United Kingdom,No,"Completely meaningless, they're injecting meaning into something that didn't have any",
+6/16/2020 19:27:15,Male,Caucasian (White),Other (Europe),Yes,"I don't think this really matters in the grand scheme of things, but if it's important to someone then sure, let's do it",trunk
+6/16/2020 19:28:52,Male,Caucasian (White),Vietnam,No,"Annoying, and unnecessary, github should take actual racial justice action.",
+6/16/2020 19:29:36,Male,Caucasian (White),United States of America,Maybe,"I don't really have an opinion on it. I don't think it's necessary at all, but if they want to do it I don't care either.",trunk
+6/16/2020 19:29:38,Male,Caucasian (White),Other (Europe),No,"Lots of systems are probably designed with hardcoded ""master"" in there, like CI/CD systems. This change would break many legacy systems.",
+6/16/2020 19:33:06,Male,Caucasian (White),France,Yes,Oportunity to adopt a more meaningful name,default
+6/16/2020 19:34:02,Male,Caucasian (White),Germany,No,"I don't agree, it's ridiculous.",
+6/16/2020 19:34:26,Male,Caucasian (White),Other (Europe),No,World gone mad,
+6/16/2020 19:34:39,Male,Caucasian (White),Other (Africa),Yes,"It's not such a big deal to change, and if it's currently implementation negatively impacted people then it's worth it",default
+6/16/2020 19:37:25,Non-binary,African (Other),Other (Europe),No,"It feels unnecessary like such an unnecessary change. It makes it seem like us POC worry about such petty things like naming conventions, while there are far bigger problems. It almost feels humiliating in a way.",
+6/16/2020 19:38:19,Male,Caucasian (White),Germany,Yes,Why keep that word? Its worth chaning rn,main
+6/16/2020 19:42:40,Male,Caucasian (White),United States of America,Maybe,"It's an empty gesture for good PR that doesn't require meaningful action on behalf of the company. Equal pay would be a better place to start, then increase the hiring & promotion of more black candidates.",dom
+6/16/2020 19:44:34,Male,Caucasian (White),United Kingdom,Maybe,I don't care,develop
+6/16/2020 19:45:36,Male,Caucasian (White),United Kingdom,Yes,"There is a lot in programming that can have unfortunate connotations and, although it's not intended to, it comes across as unfeeling. Master/slave is only one such example.",main
+6/16/2020 19:46:26,Male,Caucasian (White),Other (Europe),No,"it's really not needed, and will create more confusion than it'll do ANYTHING else",
+6/16/2020 19:48:10,Male,Caucasian (White),Germany,Yes,I don't care. It's just the default name. You can change it to whatever if you want,main
+6/16/2020 19:50:52,Male,Caucasian (White),Germany,Yes,Because it is historically based on the master/slave metaphor: https://mail.gnome.org/archives/desktop-devel-list/2019-May/msg00066.html,main
+6/16/2020 19:52:51,Male,Caucasian (White),United Kingdom,No,I think this is a pointless change that will achieve nothing ,
+6/16/2020 19:53:15,Prefer not to say,I reject the American racial caste system and reject its colonial imposition on respondents worldwide,Germany,No,"A multibillion dollar corporation is self-interestedly doing what's easy rather than what matters: making a purely symbolic gesture in order to deflect criticism of the capital-hoarding organization. (In contrast, something both symbolic and impactful would be something like reorganizing their charter such that their board must include some minimum (1/3? 2/3?) workers, of whom X must be or represent non-software physical plant staff.) Our attention and effort is scarce; let's focus it on the very difficult tasks of rebooting a more equitable criminal justice system and pushing social democratic policies, which will move the needle of racial-economic inequality. If we must make symbolic gestures let's pick ones that actually dismantle the remnants of acceptable white supremacy, such as dismantling Confederate monuments or declaring the KKK a terrorist organization (as the first part towards neutralizing it with actual criminal/political efforts).",
+6/16/2020 19:53:20,Male,Caucasian (White),New Zealand,No,I don’t see why it needs to be changed. ,
+6/16/2020 19:54:34,Male,Caucasian (White),Other (Europe),Maybe,"There are more important matters to handle. This kind of publicity detracts from the actual, systemic, violent racism going on. Now people are debating this instead of things that actually matter like police violence. 
+
+This should be fixed. I agree with the sentiment, and it's something that we should change eventually. But right now, when there's so much else and so many more important places to work on human and civil rights this just detracts from the debate. ","Not root or trunk. Trunk comes from an ancient and broken versioniing concept. Don't ever go there, Simba. Root has other meaning. `main`, `primary`, `default`, etc. is all fine. "
+6/16/2020 19:54:47,Male,Caucasian (White),Other (Europe),No,"master in this context has a different meaning, useless pr stunt",
+6/16/2020 19:56:41,Male,Caucasian (White),United Kingdom,Yes,I don't care.,default
+6/16/2020 19:58:55,Male,Caucasian (White),Hong Kong,Yes,Some people are disturbed by the term 'master' in this context.,main
+6/16/2020 20:00:27,Male,Caucasian (White),Other (Europe),Yes,"""Master"" is an arbitrary choice of a name. Regardless of connotations concerning the current issues of socio-political discourse, I think using a term such as ""main"" to identify the main bramch would not only be the preferable to the current choice, but also logically correct. It is the default main branch, after all.",main
+6/16/2020 20:01:39,Male,Caucasian (White),Other (Europe),No,Unnecessary,
+6/16/2020 20:06:28,Male,Caucasian (White),United Kingdom,No,"Politics should not be involved in absolutely every aspect of our lives. It has gone too far now. Slavery still exists today, but not to the scale it did hundreds of years ago - Stop dragging us back to the past! This behaviour only breeds hate.",
+6/16/2020 20:06:30,Male,Caucasian (White),Other (Europe),No,Its irrelevant and bringing racism into development,
+6/16/2020 20:09:50,Male,Caucasian (White),Other (Europe),No,"It s really stupid. This is about programming, and not blm",
+6/16/2020 20:09:50,Male,Caucasian (White),Other (Europe),No,"I don't feel that master has such negative sounding. On the other side, changing the convention may result in a chaos later on, especially for those who just enter this programming world.",
+6/16/2020 20:10:34,Male,Indian,India,No,This is idiotic and nothing positive will be gained from it.,
+6/16/2020 20:13:25,Male,Caucasian (White),Other (Europe),Yes,"It's good to get rid of potentially harmful language. The only reason to stick to ""master"" now is legacy, which is never a good excuse in software.",main
+6/16/2020 20:14:55,Male,Caucasian (White),United States of America,No,"Master is not a word that depends on slavery - it is older and used in many other contexts. Master of a craft, master record, mastering your profession, etc.
+
+There is no need to demonize that word. It is not routinely used in a hateful manner. Additionally, changing the name of the default branch potentially requires editing many config files across many people's workflow, for no gain other than virtue signaling.",
+6/16/2020 20:17:00,Male,Caucasian (White),Other (Europe),No,"I fractures an established concept, and will introduce ambiguity for the rest of time.",
+6/16/2020 20:21:13,Male,Caucasian (White),United States of America,No,I read 1984 and abhor Big Brother's Newspeak. `git push origin master` is not a thoughtcrime.,
+6/16/2020 20:21:26,Male,Caucasian (White),United States of America,Yes,"Yes, no difference ",main
+6/16/2020 20:21:34,Prefer not to say,Caucasian (White),Canada,No,Black people are intelligent human beings that can understand context. No one needs to come down and save them from themselves. It is racist to think that all black people are offended and can't handle the word master.,
+6/16/2020 20:21:39,Male,Caucasian (White),United States of America,No,Racism is a miserable problem.  We don’t need to invent any more outrage just so we can tell ourselves we’re woke.  Master is not a racist word.  “I’m a master carpenter” doesn’t seem racist to me.  Back off. ,
+6/16/2020 20:27:47,Male,Indian,India,No,It's stupid,
+6/16/2020 20:30:23,Male,Caucasian (White),United Kingdom,Yes,master' doesn't make sense and has slavery connotations. I would prefer 'main' instead.,main
+6/16/2020 20:31:56,Male,Caucasian (White),United States of America,No,Just stupid,
+6/16/2020 20:33:05,Male,Caucasian (White),United States of America,Yes,It's time to rid CS of this terminology,main
+6/16/2020 20:38:56,Female,Caucasian (White),United Kingdom,No,"- The original term comes from Latin ""master/magister""
+- Never seen secondary branches called or referred to as ""slaves"" 
+- Changing the default name could and will break thousands of CI workflows
+- Haven't seen a single black person complaining about it, only white people 
+- Changing the name doesn't solve the fact that the creator of git designed the system as master/slaves relations
+- changing it doesn't solve racism or slavery, but also potentially distracts from those
+-This all thing just sounds like a stupid idea to show off people's good intentions ",
+6/16/2020 20:39:04,Male,Caucasian (White),Other (Europe),No,There is no relationship whatsoever with the implied master/slave meaning.,
+6/16/2020 20:39:13,Male,Caucasian (White),Other (Europe),Yes,"The master branch name reinforces bad usage of master even it's not with bad origin itself. Let's aim for more precise and clear words which have **no** negative connotations. When new people use Git, they don't get the naming immediately as natural.",main
+6/16/2020 20:40:14,Male,Caucasian (White),Other (Europe),No,Pointless change with tons of negative effects all for corporate PR by the same people cooperating with ICE. How about supporting local charities for the feel good effect instead?,
+6/16/2020 20:46:51,Male,Latin (brown),Other (Americas),No,It's a change that it's not necessary ,
+6/16/2020 20:48:08,Male,Caucasian (White),United States of America,No,"Words have multiple meanings. This one references the idea of a master copy, not master/slave relationships. It's all performative bullshit anyway; if they really want to do good they'll cancel their ICE contract",
+6/16/2020 20:49:10,Male,Caucasian (White),Other (Europe),No,"Does not help anyone, but breaks a lot of stuff. There are better ways to help.",
+6/16/2020 20:53:42,Male,Caucasian (White),Germany,No,Do not change global standards over language politics of a minority of ideologues. They are trying to make a changed function (political) of the words the standard to justify political action.,
+6/16/2020 20:54:01,Male,Caucasian (White),United States of America,No,"It doesn't end racism, just breaks the naming convention.",
+6/16/2020 20:54:08,Male,Caucasian (White),Australia,No,"The word master has many meanings and the meaning in master as in master record has nothing to do with master-slave. GitHub should be taking real action on racism by putting its money where its mouth is. Fund BLM charities to fight injustice, fund education for POC in technology around the world. Cease to provide services to organisations that impead progress in ending racial injustice such as Governments and Police.",
+6/16/2020 20:56:35,Female,Caucasian (White),Australia,Yes,"It's an old outdated terminology that goes back to the reference of master/slave. It doesn't take much to update it helps to create more inclusive spaces.
+It doesnt magically fix anything but is one of many steps taken.
+We must be more than 'not racist' we must be anti-racist",main
+6/16/2020 21:09:27,Male,Caucasian (White),Other (Europe),Yes,It’s not very descriptive as some alternatives.,main
+6/16/2020 21:11:20,Male,Caucasian (White),United States of America,Don’t care,I have no strong feelings one way or another,main
+6/16/2020 21:14:28,Female,Caucasian (White),Germany,Yes,It's a great opportunity yo both make a statement in favor of equality and to choose a name that better conveys the branches purpose.,trunk
+6/16/2020 21:15:09,Male,Caucasian (White),United States of America,Yes,No reason not to change. ,trunk
+6/16/2020 21:15:18,Male,Caucasian (White),Germany,Don’t care,"I don't care as long if the new name fits (main, default, ...)",default
+6/16/2020 21:18:24,Male,Caucasian (White),United States of America,No,The name doesn’t have anything to do with slavery.,
+6/16/2020 21:18:41,Prefer not to say,Indian,United Kingdom,No,dont empower words by giving them special value,
+6/16/2020 21:20:12,Male,Caucasian (White),United States of America,No,Hi,
+6/16/2020 21:23:14,Male,Caucasian (White),United States of America,Yes,"Even if the term wasn't offensive to anybody, I think it's an effective form of peaceful protest in solidarity with BLM, etc. Protests that don't affect or inconvenience anybody aren't effective.",trunk
+6/16/2020 21:24:46,Male,African (Other),Other (Europe),No,"Completely irrelevant change for the purpose of virtue signaling that will have no impact to the real problems black people are facing. 
+
+It sends the wrong message and is a slippery slope for further authoritarian censorship.",
+6/16/2020 21:27:38,Male,Caucasian (White),Germany,No,"Legacy Support for lots of scripts, official (about 30% of the unittests) and unofficial (Unforeseable) would fail. Documentation and articles would not be searchable (think answered questions on stackoverflow). Lastly, in the context of git the term master was never linked with slavery but with „the original“ as in record pressing which again seems to originate from the „masterpiece“ of crafting which served as a reference-piece.",
+6/16/2020 21:29:58,Male,Caucasian (White),Other (Europe),No,Has nothing to do with slavery,
+6/16/2020 21:33:33,Male,Caucasian (White),Other (Europe),Maybe,It will confuse people but shouldn't matter if you understand it,root
+6/16/2020 21:34:08,Male,Caucasian (White),Other (Europe),No,"Master is the ""in standard"" name of the main branch in Git. There was literally no sane reason for the change.",
+6/16/2020 21:38:55,Male,Caucasian (White),Other (Europe),No,"That has nothing to do with abolishing racism, it's silly",
+6/16/2020 21:43:35,Male,Caucasian (White),United Kingdom,No,"The word ""master"" predates the Atlantic slave trade and is not used exclusively to describe the slave-master dynamic, so I don't believe its use is necessarily offensive.",
+6/16/2020 21:43:48,Male,Caucasian (White),Other (Europe),Don’t care,T,main
+6/16/2020 21:46:31,Male,Caucasian (White),Other (Europe),No,seems stupid. Are we going to change the usage of Master in Star Wars because that implies they might have slaves??,
+6/16/2020 21:47:09,Male,Caucasian (White),China,No,It's stupid.,
+6/16/2020 21:48:34,Male,Caucasian (White),Other (Europe),No,I strongly disagree with Black Lives Matter and other SJW enacting political censorship on the matters that not even somehow related to US problems with racism.,
+6/16/2020 21:48:58,Male,Caucasian (White),United Kingdom,Don’t care,"Doesn't bother me, but it does some people so I dont mind the change",root
+6/16/2020 21:54:45,Male,Asian,Other (Asia),No,I just want to stop it from making this gone too far.  This is just the beginning and I don't want master degree to change to main degree in the future. ,
+6/16/2020 21:55:46,Male,Caucasian (White),Other (Europe),No,"I have nothing against using different words for new things, but changing existing ones which are clearly not used to offend anyone is just stupid and feels like shoving politics to programming which shouldn't be done. Many people can be offended by anything. But unless something is actually offending them it shouldn't be changed. People are reading out of it something that is just not there. Same as with blacklisting/whitelisting/whatever... Its just concepts and words we had for a long time and they have nothing to do with historical slavery or racial issues...",
+6/16/2020 21:57:03,Male,Caucasian (White),France,No," This decision will not improve anything about racism, but it may confuse developers.",
+6/16/2020 22:00:19,Male,Caucasian (White),United States of America,No,"Not everything is racist.  The word Master is a valid word, and does not necessarily mean slave owner.   Github is just virtue signaling, taking advantage of a terrible situation for your own gain.",
+6/16/2020 22:01:31,Male,Caucasian (White),Australia,Yes,"I don't have any connection to the word, but it it offends others, I'm all for changing it.",main
+6/16/2020 22:02:04,Male,Caucasian (White),Other (Europe),No,"I don’t see it as máster and slave, it’s more like a master recording",
+6/16/2020 22:05:50,Male,Caucasian (White),United States of America,Yes,No big deal just do it,main
+6/16/2020 22:15:37,Male,Caucasian (White),United States of America,Don’t care,⠀,main
+6/16/2020 22:21:31,Male,Jewish,Canada,Yes,"I'd rather move on.  And it was never the best name anyway, whether it comes from audio or slavery, it's generally not what the branch is used for.",None of the above
+6/16/2020 22:26:56,Male,Caucasian (White),Other (Europe),Yes,"First, ""master"" can be offensive; second, there's really no important reason for it to be called that other than, it was the first thing that came to mind to someone who probably didn't really give it much thought. Many other names would have done the job: main, primary, trunk etc.",trunk
+6/16/2020 22:27:10,Male,Caucasian (White),United States of America,No,"If you had told me two days ago to change it to ""development"" because it makes more logical sense in our workflow, I'd agree. But because they say it's racist I don't plan on changing anytime soon",
+6/16/2020 22:27:34,Male,Caucasian (White),United States of America,No,Bad precedent,
+6/16/2020 22:27:55,Female,Caucasian (White),Other (Europe),No,"It is not even related to the master-slave terminology as with databases, seems like an effort to be so PC that we might as well demand it to be taken out of the dictionary",
+6/16/2020 22:33:39,Male,Caucasian (White),Other (Europe),No,I see no reason to change the default branch name. If anything it may create confusion as git still defaults to master. The usage of the term 'master' in this context is more in line with terms like 'Master Record' than anything related to slavery,
+6/16/2020 22:34:00,Female,African American,Canada,No,Only some white self-righteous idiot would see this word in this context and think of black people. I have never once in my live even made that connection.,
+6/16/2020 22:39:24,Male,Caucasian (White),United States of America,Yes,"master was never a very descriptive term, and it has connotations (due to its origins as half of a master/slave pair) that are marginalizing.",main
+6/16/2020 22:42:36,Male,Caucasian (White),Other (Europe),No,It is pointless busy work and does not combat racism in any way.,
+6/16/2020 22:43:51,Male,Caucasian (White),United Kingdom,No,"It does nothing and its just another bollocks virtue signalling exercise from the very people who see race and segregation everywhere. Encouraging this school of thought is dangerous and doesn't lead to less racism as it attacks everyone who doesn't subscribe to their world view that anything against anyone of colour is racist. 
+
+When a company fires employees to save money and pay their shareholders and executives larger bonuses yet decides that BLM you know that something is bent. 
+
+When anyone who doesn't agree with your ""woke"" views dares to question what good your actions will result in and you can just call them ""racist"" or that they are ""part of the problem"" without engaging with them, there is a problem. 
+
+Moving towards a system where a vocal minority can change policy, law and whatever they want on a whim and with no dialogue is fucking stupid and will lead to a really bad place. Racism won't be eliminated and all these people will wonder why their meaningless change has done no good. 
+
+If we can't discuss what is racist and what is symptomatic of a different problem then how are we going to fix the actual cases on prejudice. ",
+6/16/2020 22:48:22,Male,Caucasian (White),United States of America,No,"Making everything about race is not good for society, and ultimately results in more oppression of the black community.",
+6/16/2020 22:48:40,Male,Caucasian (White),Other (Asia),No,"1) It is not connected with master/slave as per the person who coined it, it refers to ""master copy""; 2) due to all the existing books, tutorials, videos, etc. it makes it more difficult for newbies to learn because they will be following instructions referring to 'master' when GitHub will be providing branches with different names; 3) everybody I have seen demand this is white and I have seen loads of black people say this is pointless and stupid; 4) it's the epitome of slacktivism – it helps absolutely nobody; 5) since it doesn't help anybody and it makes it more difficult for newbies to learn, it has the cumulative effect of harming black people; 6) it has reached the point where people who disagree with this change are being called ""vermin"" which should not be accepted.",
+6/16/2020 22:57:27,Male,Indian,Other (Asia),No,pretty retarded move and will break many workflow ,
+6/16/2020 23:00:02,Male,Caucasian (White),Other (Europe),No,"The master word is non offensive per se, it depends on the context.
+Master refers also, for example, to the concept of ""mastery"" of a skill, etc",
+6/16/2020 23:16:14,Male,Caucasian (White),Germany,No,Makes no sense to me,
+6/16/2020 23:19:40,Male,Caucasian (White),United States of America,Yes,"The time it took to come up with this survey is less time than most people will spend feeling any negative effects from this change. The insistence on keeping ""master"" is being purposefully to the experiences of others. ",Mainline
+6/16/2020 23:33:29,Male,Caucasian (White),United States of America,No,"I don't agree with the change, but I don't care enough to really fight it. It's an odd change, as it forces the term 'master' into a specific cultural context outside of its intention in technology.",
+6/16/2020 23:34:35,Male,Latino/Hispanic,United States of America,Don’t care,I don’t think the use of master is problematic but I don’t care if it’s changed or not.,main
+6/16/2020 23:42:28,Male,Caucasian (White),Germany,Maybe,I really don't think it's necessary. When hearing master and slave i never explicity thought one of them has an other skin color. Especially not when it is used in a technical context. Also who knows how many workarounds that might break...,main
+6/16/2020 23:50:24,Male,African American,United States of America,No,"It's stupid, means nothing, and makes fun of the civil rights movement.",
+6/16/2020 23:51:54,Male,Caucasian (White),Other (Europe),No,"It's not racist. It's just a naming convention - ""master"" record.",
+6/16/2020 23:54:31,Male,Caucasian (White),Other (Europe),No,"This is a breaking change for much of our inhouse tooling. We'll have to move all kinds of stuff around. Master has settled itsself as a keyword and ""main"" is no replacement since ""main"" is itsself also a keyword. We got a masterbranch with all the releases tagged on it, and a main branch where development happens, forks originate from and is merged back to. Links in our documentation to branches and commits will be out of date and this is really difficult to fix.  To sum it up, once keywords are established, it's nearly impossible to change them.
+
+Secondly, there has not been any debate on why master is a loaded term and if it is, if that is a grounds for removal. I don't like loads of words. In history, people didn't like the word ""Jew"" and look where that has gotten us! Historically speaking, Nazi's tried to ban loads of terminology for reasons most of us agree are invalid. The fact that someone doesn't like something or someone doesn't mean that they have to be wiped out of existence. Removing a word from the dictionary will only polarize people and therefore breed more discrimination. So let's just first talk about it.
+
+Thirdly, I don't like to do more work because some company wants to virtue-signal instead of actually contributing to society. I think that's just bullshit.",
+6/16/2020 23:56:08,Male,Caucasian (White),United States of America,No,I haven't seen any evidence that people are actually offended by it. ,
+6/16/2020 23:58:17,Male,Caucasian (White),Germany,Maybe,main is shorter which is nice but it kinda sad that most ppl support it because of politics. Also sad that there is more inertia behind this than sha1 removal,main
+6/17/2020 0:01:47,Non-binary,African American,United States of America,No,Nobody thinks of slavery when they see a master branch except overly sensitive white people. ,
+6/17/2020 0:04:32,Male,Caucasian (White),United States of America,No,Has nothing to do with racism or slavery. The only people who are racist are the ones who came up with that connection in the first place.,
+6/17/2020 0:07:04,Male,Caucasian (White),United States of America,No,"I feel like it's a bad idea to start changing things from the demands of a small minority. This change isn't a big deal, but what happens when more significant changes are demanded. I'd like to be comfortable in that all of my hard work that I have on the website isn't going to be censored because I used the word ""slave"", which is somehow offensive?! ",
+6/17/2020 0:08:47,Male,Caucasian (White),United States of America,No,"I completely sympathize with BLM and denounce bigotry of any kind, but this is ridiculous. It’s one thing to want to enact actual change, it’s another to signal wokeness in this way. Words and symbols matter, but so does context. ",
+6/17/2020 0:14:14,Male,Asian,Australia,Yes,"New repos are only ones affected, little effort to support, and GitHub’s action is likely to make it convention so it is extremely likely to become the default. Atlassian and GitLab are likely to follow suit. I personally know people at Atlassian who are of a similar mind.
+
+More importantly, we should listen to those who have raised the concern. “The PR is gonna be merged into master,” is awkward. It is vocalised and I did/do think about the connotation even as a non-black man.
+
+I’m shocked by Reddit’s stubbornness and lack of open minds when discussing this. Those who I have discussed with this in commerce, architecture, art, music, and medicine universally agree that this is a good move.",main
+6/17/2020 0:14:25,Male,Caucasian (White),Other (Europe),No,"The term 'master' isn't limited to slavery. There are bdsm masters, kung fu masters, school masters. Just because it was also used in slavery doesn't mean it should be abolished completely. By that logic, we should no longer wear cotton.",
+6/17/2020 0:23:13,Male,African American,Australia,No,"master - verb
+    1.    acquire complete knowledge or skill in (a subject, technique, or art).",
+6/17/2020 0:35:26,Male,Caucasian (White),Other (Asia),Don’t care,"Main is nice name, but master is ok",main
+6/17/2020 0:44:01,Prefer not to say,Native,United States of America,No,Stupid,
+6/17/2020 0:48:31,Male,Caucasian (White),Other (Europe),No,"Master in these words has nothing to do with slavery and even if it did. Changing/hiding it wont unslave those slaves from a couple HUNDREDS of years ago. 
+
+Also changing the name wont fix racism",
+6/17/2020 0:49:46,Male,Caucasian (White),Germany,No,Such non-issues only come up to distract from actual problems in the US regarding police brutality and such.,
+6/17/2020 0:52:22,Male,Caucasian (White),Canada,No,Pointless change that solves nothing.,
+6/17/2020 0:56:14,Prefer not to say,Latino/Hispanic,Japan,No,Years of scripts gone to the trash,
+6/17/2020 1:13:25,Fluid,Caucasian (White),Other (Europe),Yes,Why?,trunk
+6/17/2020 1:14:08,Male,Caucasian (White),United Kingdom,No,Redefining language is a slippery slope to control people through use of said language. See 1984 for main idea.,
+6/17/2020 1:25:54,Male,Caucasian (White),Other (Europe),No,"Its fucking dumb to be honest, its always been master and if people want to see it as slavery so be it. We cannot live in a world where we cannot use certain words because a selected group chooses to be hurt in their ass.",
+6/17/2020 1:27:52,Male,Caucasian (White),Other (Europe),No, Irrelevant virtue signaling crap ,
+6/17/2020 1:28:09,Male,Caucasian (White),United States of America,No,Waste of time and policing of language. Reminds me of “newspeak”,
+6/17/2020 1:29:40,Male,Asian,China,No,"""master"" is not necessarily related to slavery, and this change can break the CI/CD workflows, git tutorials, shell scripts, etc. Besides these, I've never considered that ""master"" can be related to slavery before, but now I have, so this movement actually makes more people think about slavery when using the ""master"" branch.",
+6/17/2020 1:31:36,Female,Caucasian (White),Canada,Don’t care,The folks getting pissed at the change are more ridiculous than the change itself. Was the ‘master’ branch really problematic? Depends on who was committing. Does changing ‘master’ to ‘main’ warrant all this self-righteous vitriol and rage? No. Shut up and enjoy two less key strokes.  ,root
+6/17/2020 1:31:47,Male,Asian,Other (Asia),No,"I don't see any merits for changing the name of the default branch and I don't really care with the whole ""BLM"" issues that crop up at Western society recently. My energy & time is better spent at doing my actual job as developer, not deliberating and debating about branch naming.",
+6/17/2020 1:36:53,Male,Slav,Other (Europe),No,I used master for so long I can not rewrite all my automation Jenkins scripts artifactory e.t.c to use another branch by default. Please if it works do not touch it. This change will broke so much things.,
+6/17/2020 1:41:43,Male,Caucasian (White),Canada,No,Breaks common tools,
+6/17/2020 1:49:17,Male,Caucasian (White),United Kingdom,No,I think it is a pointless and overblown response that will detract from the impact of the BLM movement. It is a blatant Pr stunt by GitHub to appear more progressive in the current climate.,
+6/17/2020 1:59:12,Transgender,Caucasian (White),United States of America,No,"It's ridiculous. The name doesn't even relate to master/slave terminology, this is a waste of resources and trivializes the BLM movement",
+6/17/2020 1:59:18,Male,Caucasian (White),United Kingdom,Don’t care,"Master wasn’t invented for slavery purposes, it just shows that it’s a controller / overseeing entity",root
+6/17/2020 2:02:21,Prefer not to say,Caucasian (White),France,No,Insanity,
+6/17/2020 2:14:13,Male,Caucasian (White),Other (Europe),No,Master in the context of master branches does not stem from any racially related background. Just like hundreds of other uses of the word master. Banning a word from any context will not solve racism in any way.,
+6/17/2020 2:19:58,Male,Indian,India,No,"It's plain stupid. There are zillion other places where ""master"" has to be replaced then - Master's degree, Master bedroom, and the another Y2K like problem this rename could cause. This is stupidity. Don't know where the world is heading!",
+6/17/2020 2:23:12,Male,Caucasian (White),Other (Americas),Don’t care,I dont really feel like it changes much,primary
+6/17/2020 2:26:52,Male,Caucasian (White),United States of America,No,It will take a lot of time to get some programs to work again with the name change and it will mean GitHub terminology is inconsistent with git terminology.,
+6/17/2020 2:27:24,Male,Caucasian (White),Other (Europe),No,No one who uses Github makes the connections between master and slavery.,
+6/17/2020 2:28:41,Male,Caucasian (White),United States of America,Maybe,"The connection to slavery seems contrived. Word's have multiple uses, I don't like removing words. Don't mind changing the default, never really liked 'master' for it. I would prefer 'production'. It's a good thing you can set your own names.",production
+6/17/2020 2:33:17,Male,Caucasian (White),France,No,"I think it is a good idea to change it for something more meaningful, as Drupal did. Changing it for BLM is just political opportunism. It means that the term is and always was racist, and allow popular opinion to it. It never has been. The brain must have been f*cked up in the road to have similar thinking. And now, colored devs can't think otherwise when they say ""push to master"" ? Now it needs to be changed. But before that ? That was racist to think about changing it in the first place... (And I'm not talking about Git etymology that is neuro atypical phobic, or their partnership with ICE... If they want to be jusqu'auboutism)",
+6/17/2020 2:40:21,Male,Caucasian (White),Other (Europe),Yes,"Racist terminology doesn't affect me personally, but that is no excuse to impose it on others",main
+6/17/2020 2:41:58,Male,Chinese,United Kingdom,Yes,More inline with other code control systems.,trunk
+6/17/2020 2:52:50,Male,Caucasian (White),Other (Europe),No,"""Master"" in Git has only vague and IMHO forces relation to ""master/slave"". It is more like ""master bedroom"" or ""master key"" than ""slave owner"". ",
+6/17/2020 2:59:56,Male,Asian,United States of America,No,This is fucking stupid,
+6/17/2020 3:06:37,Prefer not to say,Caucasian (White),United States of America,No,The word slave predates slavery in the United States. Sometimes the PC culture goes to far.,
+6/17/2020 3:18:54,Male,Caucasian (White),United States of America,No,"Does not actually solve the racist problem, also there is no such thing as slave branches. Github is simply doing this as a marketing ploy to make it seem like they are making progress towards racism without actually doing anything",
+6/17/2020 3:28:44,Male,Caucasian (White),Other (Europe),Maybe,Dont know. Never Change a running system i guess?! I already used different Default Branches. Gets some time to geht used too when working with Others repos (using Master). Consistency in These Kind of Things ist Key. I dont want to remember each Default branch per repo and dont want to Look IT Up all the time. ,staging
+6/17/2020 3:34:26,Male,Caucasian (White),Other (Europe),No,"The meaning behind the naming really captures the concept behind (and no one complained about it since ever...). It really doesn't mean we agree with slavery and killing people. People tryin' to satisfy the BLM movement are fakely solving issues, which were never issues.",
+6/17/2020 3:34:28,Female,Asian,United States of America,No,Treating the symptom is not the cure. It's an act of undermining the power of language and communication.,
+6/17/2020 3:50:53,Male,European decent,Canada,No,Context matters. A branch from which other branches are not the same as a branch owning and beating sub branches.,
+6/17/2020 3:59:56,Male,Caucasian (White),United Kingdom,No,"It seems like pointlessly trying to edit terminology (in a way which will probably require a lot of effort, break things somewhere, and confuse people) because maybe someone somewhere could be offended.",
+6/17/2020 4:09:40,Male,Mixed race (Hispanic/White),United States of America,No,The adjective definition of master has other meanings not related to servants or slavery,
+6/17/2020 4:17:31,Male,Caucasian (White),United Kingdom,No,The terms are not used in racial context in any way. It also does not address any real racism problems. It's just a distraction from the real problems.,
+6/17/2020 4:20:06,Male,Caucasian (White),Other (Europe),No,"This is a slippery slope change with no real world reason to exist.
+
+The master-slave terminology is not racist in context of computer technology, nor anywhere outside of the U.S. anyway. All races can and have been both slaves and masters in the history of mankind.",
+6/17/2020 4:25:33,Male,Caucasian (White),United Kingdom,No,Because master is what it's name is,
+6/17/2020 4:25:50,Male,Asian,United States of America,No,Replacing words just because it is a homonym for 'slave owner' doesn't solve racism and is a lazy and insulting effort by github.,
+6/17/2020 4:27:14,Male,Caucasian (White),Other (Europe),No,Complete non-sense.,
+6/17/2020 4:28:54,Male,Pakistani,Other (Asia),No,"It might cause backward issues, and isn't a subject for racism anyways.",
+6/17/2020 4:30:04,Male,Caucasian (White),United States of America,Don’t care,"I mean I get it, it doesn’t really mess anything up for me so I’m chill with it",root
+6/17/2020 4:31:37,Female,Asian,United States of America,Yes,"Throughout history we've learned from our past and evolved language over time to be more inclusive and less oppressive of different cultures, this is no exception.",primary
+6/17/2020 4:44:38,Male,Latino/Hispanic,United States of America,No,It shiiiiiiit!!!!!!!!,
+6/17/2020 4:48:27,Male,Caucasian (White),United States of America,No,The word master in a programming context has never had racial connotations. I don't think anyone has ever been offended by it.,
+6/17/2020 4:59:05,Male,Caucasian (White),United Kingdom,Maybe,I don't agree with changing master as it is kinkshaming but I agree with changing whitelist.,primary
+6/17/2020 4:59:09,Male,African (Other),Other (Europe),Maybe,"I am from Congo, now developer in Brussels, Belgium. The irony, is not? Change is ok for me if offensive for others. HOWEVER, please no change to 'main'. This word LITERALLY means 'hand' in French. As you might now, Belgians cut off hands of my elder family. Very sad history. This is no good change for French speaking Africans! I do not want to remember everytime I use git that hands were cut. Thanks for understanding! My proposal for master branch: branch0. Neutral alternative.",branch0
+6/17/2020 5:02:47,Male,Caucasian (White),Other (Europe),No,There’s too much “politically correctness” around the decision. Changing a core technology concept such as the master-slave coupling would slow down processes without making any particular point. It would just be a cringe move.,
+6/17/2020 5:04:01,Male,Caucasian (White),United States of America,No,"Uses master in a totally different context (ie Master Copy, not Master-Slave)",
+6/17/2020 5:18:18,Male,Caucasian (White),United States of America,Don’t care,"This is insubstantial, it's weak-sauce ""me-too!""-ism.  If GitHub wants to support what needs doing, and I think they should, this doesn't even qualify as ""the least they can do"" because it doesn't actually do anything. It's no-effort, no-effect, posturing. Whether it's even sincere is  not apparent, and doesn't matter either way.",None of the above
+6/17/2020 5:33:00,Male,Caucasian (White),Other (Europe),No,People lost their shit! Lost complete sense of reality. It makes no sense. It is not related what so ever. ,
+6/17/2020 5:48:22,Male,Caucasian (White),Germany,Don’t care,I want to program i don’t care about my branch namens,main
+6/17/2020 6:21:54,Male,Indian,United States of America,No,Because its a pathetic attempt at showing solidarity while real issues fester,
+6/17/2020 6:31:43,Prefer not to say,Unimportant,Other (Europe),No,"Empty gesture. Master in git context is not master/slave relation, but original which you clone from",
+6/17/2020 6:44:38,Male,Indian,United States of America,No,"If it ain't broke, don't fix it. I haven't heard any backlash.",
+6/17/2020 7:17:57,Male,Caucasian (White),United Kingdom,No,To have 'mastered' something or to have a masterful piece of work is in no way related to being a slave master . A master branch contains the mastered and approved version of the repo. It's nonsensical.,
+6/17/2020 7:29:59,Male,Latino/Hispanic,United Kingdom,Maybe,"I'd rather have the main branch called main. It makes more sense to me.
+
+My problem is not with the renaming but with society being so willfully devoid of any context that does not directly concern them. This is merely a tranfer of meaning to a different set of symbols. Surely what matters is the meaning rather than the symbols used to convey it. The context is completely different and the relationship between different brances is different to that of a master-slave dynamic.
+
+It's also going to cause many automated systems to break, which is ill-advised.
+
+It's an empty, token gesture to give ourselves a pat on the back rather than actually addressing the real issue that black people are underrepresented in developer circles.",main
+6/17/2020 7:48:10,Male,Caucasian (White),Other (Europe),No,Unnecessary and STUPID.,
+6/17/2020 8:24:02,Male,African (Other),New Zealand,No,"
+",
+6/17/2020 9:16:45,Prefer not to say,Caucasian (White),United States of America,No,It’s a long standing term that does not inherently carry racist connotation.,
+6/17/2020 9:55:10,Female,Caucasian (White),United States of America,No,It’s not necessary.,
+6/17/2020 10:10:08,Prefer not to say,I am an individual I find the fact that my opinion is pigeonholed in racial category discriminatory,United Kingdom,Don’t care,"While I would have not minded changing the default name from master to main for practical reasons (I actually think 'main' better fits the principal branch), I find the reason why this was done very shallow, hypocritical and inappropriate.
+
+----Shallow because---
+Starting with the fact that ""master"" in this case doesn't denote a master/slave relation but the principality of one of the branches thus has nothing to do with the BLM movement.
+Secondly, In informatics naming has always proceeded using behavioural terms inspired to real-world phenomena (e.g. P2P, Client/Server, Banker's Algorithm, Master/Slave etc.) using this terms says nothing about being in favour or not of the existence of those terms in the real world nor the political position of the user.
+
+---Hypocritical because---
+making these changes will not support the improvement of society towards the reduction of systemic racism and won't lead to a more egalitarian society, but it's just a language paint job so that we can fake these things don't exist in the real world at the expense of lots of practical nuisances.
+
+---Inappropriate because---
+Making this change to wash the image of a private company is an exploitation of a rightful cause just to make a company APPEAR more rightful without taking real action to make changes towards a better society.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+That said, as a Computer Engineer, I think that changes should be avoided unless we have a demonstratable reason to believe that the new state is perceivably better than the previous. This change could potentially cause a lot of nuisances that have to be dealt with appropriately and I am not sure that the costs are lower than the benefits.",main
+6/17/2020 10:23:56,Male,African American,United States of America,No,"I find it EXTREMELY insulting that a group of white guys are telling us what to be offended by. They are the real racists, thinking we are ""vulnerable"" and need protecting, no thanks I can look after myself. They seem to think we are so weak minded that we need protection from the word master in a completely different context. These white guys have some weird ass messiah complex if you ask me.",
+6/17/2020 10:51:54,Male,Asian,Canada,No,it feels so weird,
+6/17/2020 11:49:50,Male,Caucasian (White),Australia,No,It will cause an excessive amount of work for no reason. It also seems like a publicity stunt by GitHub which is not what the movement stand for.,
+6/17/2020 12:32:54,Male,Caucasian (White),United States of America,Don’t care,"If master bothered people, it's fine to change ",root
+6/17/2020 13:41:59,Male,Caucasian (White),United States of America,Yes,It's wrong,trunk
+6/17/2020 13:53:12,Male,Latino/Hispanic,Other (Americas),No,"Rational people don't relate the use of word 'master' with slavery in dev context, this just seems to reflect the broken that is USA culture, I don't see how this could fix any of the real problems that they are facing. It is just fixing a problem that didn't exists.",
+6/17/2020 17:11:24,Male,Asian,Canada,No,"It's just corporate virtue-signalling; furthermore, the term master here clearly isn't used in a slavery connotation.",
+6/17/2020 17:40:10,Non-binary,African (Other),United Kingdom,No,Breaking change,
+6/17/2020 19:57:39,Male,Asian,Other (Asia),No,"The term master/slave isn't as in human master/slave. It's in different context. Even we don't use those words anymore, we will find an alternative word to describe those terms which will be linked into racism and get those new words banned again.",
+6/17/2020 21:05:18,Male,Caucasian (White),Other (Americas),No,"Master doesn't have any racist connotation, a simple name change doesn't impact the right against racism in any way, and I have some scripts/aliases depending on the name ""master""",
+6/18/2020 1:49:17,Male,Mixed White/Black,United States of America,No,"This feels like a knee jerk reaction to change an entire terminology to appear ""progressive"" with the times. If you wanted to change your structure based on wanting to make something that makes more sense, great. But if you are wanting to change something because of ONE definition of a word that I feel like many, including myself, never associated it with; you're not trying to make a change to improve, your are making a change to keep your self ""relevant"".
+
+If you want to make a difference, ",
+6/18/2020 2:46:19,Male,Dutch,Other (Europe),No,Bruh,
+6/18/2020 4:54:43,Male,Asian,United States of America,No,.,
+6/18/2020 5:26:52,Male,Caucasian (White),United Kingdom,Don’t care,"I don't care, despite thinking it's a dumb decision.",None of the above
+6/18/2020 5:52:57,Transgender,African American,United States of America,No,This is offensive to Black Trans Lives who express ourselves through BDSM roleplay. This is erasure of Black Trans folx.,
+6/18/2020 8:32:31,Male,Caucasian (White),Other (Europe),No,.,
+6/18/2020 11:43:59,Male,Caucasian (White),United States of America,No,"The 'master' branch in Git is most commonly understood to be the 'master copy' of the repo - the working or deployed copy of the code.  Git doesn't have a master/slave relationship between branches, and I have never seen or heard anyone make such a connection until this idea popped up.  If Git *was* using master/slave terminology, then it is something that would be legitimately worth considering changing.  But, that's not the case.
+
+This change will have a far-reaching impact, and not in a good way.  Old books, guides, and other documentation will continue to exist, referring to the branch as 'master' and confusing new users.  Tools that assume the existence of a 'master' branch will break and need to be fixed, and developers' muscle memory will need to be retrained.  And for what?  To change a word that doesn't even refer or imply slavery all in the name of a PR win.
+
+If Git was being created from scratch today, then perhaps 'main' would be the better name for the default branch.  But, the opportunity cost of this change is too high to be reasonable.
+
+There are a ton of issues going on in the world today caused by systemic racism, income inequality, and police brutality.  This change does nothing to help fix things.  It's misguided, and will only cause confusion for future users.  ",
+6/18/2020 18:51:55,Female,African American,United States of America,No,"Making this change insinuates that my brothers and sisters and I are not intelligent or emotionally mature enough to understand that words have different meanings in different contexts.
+
+This initiative reeks of cheap pandering to squeeze out some good PR on the backs of the BLM movement, and is probably being used to divert attention from GitHub ignoring employee concerns about their ICE contracts, which are actually directly contributing to harming minorities.",
+6/18/2020 22:52:54,Male,Caucasian (White),United States of America,No,"Technically disruptive, doesn't fix the real problem",
+6/19/2020 16:18:07,Male,Asian,Canada,No,"It's literally watering down the struggle of colored people's in the USA fighting oppression. ""Master"" has no racist meaning in this context.",
+6/20/2020 8:35:11,Male,Caucasian (White),Other (Europe),Don’t care,"Unlike terms like whitelist/blacklist which directly reference slavery/racial injustice, word master has many meanings which are not necessarily related to master/slave.",main
+6/21/2020 1:17:04,Male,Caucasian (White),Other (Europe),No,It's a breaking change for existing tooling.,
+6/22/2020 22:10:02,Male,Caucasian (White),United Kingdom,Yes,It makes no difference to me but if it makes someone else uncomfortable it's worth the change.,main
+6/24/2020 5:23:19,Male,Caucasian (White),Germany,No,It has nothing to do with slavery. Master/slave in engineering is just a technical term and in this case it's only master. The other branches coexist with the master branch and don't serve it at all.,
+8/6/2020 11:23:42,Male,Asian,United States of America,Don’t care,dont care xd,senpai
